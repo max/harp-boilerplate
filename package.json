@@ -1,0 +1,22 @@
+{
+  "name": "harp-boilerplate",
+  "version": "1.0.0",
+  "description": "A [Harp](http://harpjs.com) boilerplate for quick front-end hacks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/max/harp-boilerplate.git"
+  },
+  "author": "Max Schoening <mail@maximilian.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max/harp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/max/harp-boilerplate",
+  "devDependencies": {
+    "normalize.css": "^3.0.2"
+  }
+}
